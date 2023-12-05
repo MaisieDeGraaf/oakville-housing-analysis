@@ -2,7 +2,7 @@
 
 -------------------
 
-##Description
+## Description
 
 The project talks about
 
@@ -21,21 +21,21 @@ The questions we are going to answer are:
 3. 
 
 
-##Members of the group:
+## Members of the group:
 1. Maisie DeGraaf ([@MaisieDeGraaf](https://github.com/MaisieDeGraaf))
+2. Jaylene Hughes ([@jhyooz](https://github.com/jhyooz))
 2. Pooja Niranjan ([@Pooja14n](https://github.com/Pooja14n))
-3. Peggy Tadi ([@peggz19](https://github.com/peggz19))
 4. Robert Skrepnek ([@RSkrep](https://github.com/RSkrep))
-5. Jaylene Hughes ([@jhyooz](https://github.com/jhyooz))
+6. Peggy Tadi ([@peggz19](https://github.com/peggz19))
 
 
-##Work breakdown structure
+## Work breakdown structure
 
 
-##Datasets used:
+## Datasets used
 
 
-##Analysis
+## Analysis
 
 
-##Limitations
+## Limitations

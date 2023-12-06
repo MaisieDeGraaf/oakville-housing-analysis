@@ -41,9 +41,20 @@ The questions we are going to answer are:
 
 ## Analysis
 
+<<<<<<< HEAD
 ### Limitations
 1. Size of sample
 2. Reliability of data
 3. Available data
 4. Data only since 2018
 4. Incomplete 2023 data
+=======
+
+##Code Snippits
+
+
+##Analysis
+
+
+##Limitations
+>>>>>>> main

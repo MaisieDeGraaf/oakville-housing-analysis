@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 # Adding config.py file.
 api_keys.py
+__pycache__/api_keys.cpython-311.pyc

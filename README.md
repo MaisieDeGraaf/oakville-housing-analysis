@@ -6,18 +6,21 @@
 The project talks about:
 
 1. Comparative housing prices for Oakville to surrounding regions (Burlington, Milton, Vaughan, Oshawa)
-2. Factors in the regions such as population, income, school districts, weather, investors, geography, transit, amenities.
-3. Comparing year over year housing sale changes and growth in all regions, and how they compare to Oakville.
+2. Factors in the regions such as population, income, school districts, amenities.
+3. Comparing sale changes and growth in all regions, and how they compare to Oakville.
 
 The analysis we are going to do is:
-1. Analyzing sale prices of housing year over year within various regions comparable to Oakville
+1. Analyzing sale prices of housing within various regions comparable to Oakville
 2. Analyzing factors such as popularity of the city, income, schools, amentities, and other variables that may affect housing prices
 3. Create visualizations that help demonstrate factors that may be a stronger influence than others of housing prices in cities within the GTA.
 
 The questions we are going to answer are:
-1. What sort of factors increase or decrease the value of housing within the GTA?
-2. What unique vairables has set Oakville apart from the other cities nearby if at all?
-3. What year, if available in analysis, did cities see the largest jump in housing prices?
+1. What unique variables has set Oakville apart from the other cities nearby if at all?
+2. What sort of factors increase or decrease the value of housing within the GTA? 
+3. What are the different economic states of each city based on household income, unemployment rate and housing cost ?
+4. Which city display the greatest growth (population, infrastructure, economic) ?
+5. Which cities offer the greatest housing opportunities?
+6. Which city/cities is/are more appealing for families?
 
 ## Members of the group
 1. Maisie DeGraaf ([@MaisieDeGraaf](https://github.com/MaisieDeGraaf))

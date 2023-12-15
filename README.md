@@ -92,11 +92,11 @@ Housing tenure : Whether we look at the total number of owned houses or the tota
 Pie chart : The pie charts helps showing the differences of the rental and property market amoung all cities. We are able to see that Vaughan has more owned houses, Oshawa has more rented houses and Oakville seem to stay constant
 Scatter : This plot helps showing the correlation between population and home tenure. The more the population, the more the owned houses. People see to draw more towards this preference.
 6. Ratio of leisure to population:
-Burlington - 663 people per leisure space
-Oakville - 499 people per leisure space
-Vaughan - 1287 people per leisure space
-Milton - 568 people per leisure space
-Oshawa - 493 people per leisure space
+* Burlington - 663 people per leisure space
+* Oakville - 499 people per leisure space
+* Vaughan - 1287 people per leisure space
+* Milton - 568 people per leisure space
+* Oshawa - 493 people per leisure space
 
 ## Limitations
 1. Size of sample

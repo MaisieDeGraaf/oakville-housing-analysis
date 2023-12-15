@@ -102,6 +102,6 @@ Oshawa - 493 people per leisure space
 1. Size of sample
 2. Reliability of data
 3. Available data
-4. Data only since 2018
+4. Data only since 2016
 5. Incomplete 2023 data
 
